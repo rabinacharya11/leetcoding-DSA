@@ -1,11 +1,7 @@
-import java.util.Scanner;
-
-
-public class Practise {
+public class Plaindrome {
 
     public static void main(String[] args) {
     System.out.print( solution(121)  );
-
 
     }
 
@@ -30,3 +26,5 @@ public class Practise {
          return false ;
     }
 }
+
+
